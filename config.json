@@ -1,0 +1,16 @@
+{
+  "filename": "qr_used_voucher",
+  "class": "QrUsedVoucherAggregator",
+  "functions": [
+    {
+      "name": "aggregate",
+      "input": [
+        {
+          "name": "qr_used_voucher",
+          "type": "df"
+        }
+      ],
+      "type": "normal"
+    }
+  ]
+}
